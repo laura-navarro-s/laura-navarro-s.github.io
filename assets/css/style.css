@@ -355,11 +355,24 @@ h6,
     padding-right: 0;
     padding-left: 0;
   }
+
+  #bordes-cv {
+    width: 100%;
+  
+  }
+  
+  #bordes:hover {
+    width: 100%;
+  
+  }
+
+
+
   
 }
 
 .custom-navbar .navbar-brand {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
 }
 
 /*--------------------------------------------------------------
@@ -409,7 +422,7 @@ h6,
 }
 
 #bordes {
-  width: 180px;
+  width: 150px;
   border: solid rgb(190, 190, 190) 1px;
   text-align: center;
   transition: box-shadow .3s;
@@ -417,9 +430,26 @@ h6,
 }
 
 #bordes:hover {
-  width: 180px;
+  width: 150px;
   border: solid black 1px;
   text-align: center;
+  box-shadow: 0 0 11px rgba(5, 5, 5, 0.2); 
+
+}
+
+#bordes-cv {
+  width: 120px;
+  font-size: 0.8em;
+  border: solid rgb(190, 190, 190) 1px;
+  text-align: center;
+  transition: box-shadow .3s;
+  margin-top: 2em;
+
+}
+
+#bordes:hover {
+  width: 120px;
+  border: solid black 1px;
   box-shadow: 0 0 11px rgba(5, 5, 5, 0.2); 
 
 }
