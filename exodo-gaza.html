@@ -35,16 +35,24 @@
 
   <!-- Include Svelte app CSS -->
   <link rel="stylesheet" href="svelte-app/bundle.css">
+
+  
+    <script defer src="./svelte-app/bundle.js"></script>
+  <script>
+    // Ensure your Svelte app mounts to the correct element
+    import App from './svelte-app/bundle.js';
+
+    const app = new App({
+      target: document.getElementById('svelte-app'),
+    });
+  </script>
+
   
 </head>
+
+  
   
 <body>
-
-  <!-- Container for your Svelte app -->
-  <div id="svelte-app"></div>
-
-  <!-- Include Svelte app JS -->
-  <script src="svelte-app/bundle.js"></script>
 
   <nav class="navbar navbar-light navbar-expand justify-content-center">
     <ul class="navbar-nav">
@@ -57,16 +65,11 @@
     </ul>
 </nav>
 
-    <script defer src="./svelte-app/bundle.js"></script>
-  <script>
-    // Ensure your Svelte app mounts to the correct element
-    import App from './svelte-app/bundle.js';
+    <!-- Container for your Svelte app -->
+  <div id="svelte-app"></div>
 
-    const app = new App({
-      target: document.getElementById('svelte-app'),
-    });
-  </script>
-
+  <!-- Include Svelte app JS -->
+  <script src="svelte-app/bundle.js"></script>
 
 
   <main id="main">
