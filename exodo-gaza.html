@@ -38,6 +38,16 @@
   
 </head>
 
+  <script defer src="./svelte-app/index.js"></script>
+  <script>
+    // Ensure your Svelte app mounts to the correct element
+    import App from './svelte-app/index.js';
+
+    const app = new App({
+      target: document.getElementById('svelte-app'),
+    });
+  </script>
+
 <body>
 
   <!-- Container for your Svelte app -->
