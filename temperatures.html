@@ -6,6 +6,14 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
     <title>My Svelte Chart</title>
     <link rel="stylesheet" href="public/build/bundle.css">
+    <script defer src="public/build/bundle.js"></script>
+    <script>
+        import App from './public/build/App.svelte';
+
+        const app = new App({
+            target: document.getElementById('svelte-chart')
+        });
+    </script>
 </head>
   
 <body>
@@ -16,14 +24,6 @@
     
     <p>This is a paragraph after the chart.</p>
     
-    <script defer src="public/build/bundle.js"></script>
-    <script>
-        import App from './public/build/App.svelte';
-
-        const app = new App({
-            target: document.getElementById('svelte-chart')
-        });
-    </script>
 </body>
 </html>
 
