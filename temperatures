@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>MyPortfolio Bootstrap Template - About</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=https://fonts.googleapis.com/css?family=Inconsolata:400,500,600,700|Raleway:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-light navbar-expand justify-content-center">
+    <ul class="navbar-nav">
+      <div id="bordes">
+      <li class="nav-item"><a href="index.html" class="nav-link">WORK</a></li>
+    </div> 
+    <div id="bordes"> 
+        <li class="nav-item"><a href="about.html" class="nav-link">ABOUT</a></li>
+      </div>
+    </ul>
+</nav>
+
+
+
+ 
+  <main id="main">
+
+    <section class="section pb-5">
+      <div class="container">
+        <div class="row mb-5 align-items-end">
+          <div class="col-md-6" data-aos="fade-up">
+
+            <p class="mb-0">I was born in the outskirts of Barcelona in 1993. Shortly after starting my professional career as a journalist, I discovered that I could tell stories with data and mix research, design, reporting, analysis and a lot of creativity.<br><br> And I took the plunge.</p>
+
+          </div>
+        </div>
+    </div>
+  </section>
+    
+ </main><!-- End #main -->
+
+              
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
