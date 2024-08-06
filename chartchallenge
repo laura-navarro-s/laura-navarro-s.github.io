@@ -1,0 +1,639 @@
+you can fin<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Laura Navarro</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=https://fonts.googleapis.com/css?family=Inconsolata:400,500,600,700|Raleway:400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: MyPortfolio
+  * Updated: Sep 18 2023 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <nav class="navbar navbar-light navbar-expand justify-content-center">
+    <ul class="navbar-nav">
+      <div id="bordes">
+      <li class="nav-item"><a href="index.html" class="nav-link">WORK</a></li>
+    </div> 
+    <div id="bordes"> 
+        <li class="nav-item"><a href="projects.html" class="nav-link">PROJECTS</a></li>
+      </div>
+     <div id="bordes"> 
+        <li class="nav-item"><a href="about.html" class="nav-link">ABOUT</a></li>
+      </div>
+    </ul>
+</nav>
+
+
+  <main id="main">
+
+    <!-- ======= Works Section ======= -->
+    <section class="section site-portfolio">
+      <div class="container">
+        <div class="row mb-5 align-items-center">
+          <div class="col-md-12 col-lg-6 mb-4 mb-lg-0" data-aos="fade-up">
+            <h2>Laura Navarro Soler</h2>
+            <p class="mb-2">DATA JOURNALIST | VISUAL | GRAPHICS REPORTER</p>
+            <div class="col-sm-6 social">
+              <a href="https://twitter.com/LauraNavarroSol"><span class="bi bi-twitter"></span></a>
+              <a href="https://github.com/lau-cloud"><span class="bi bi-github"></span></a>
+              <a href="https://www.linkedin.com/in/laura-navarro-soler/"><span class="bi bi-linkedin"></span></a>
+            </div>
+            <p class="mt-5">Here you can find some projects I have been working on, from freelance data visualizations to personal pieces to keep learning and practising what I love to do.</p>
+
+            
+    
+          </div>
+          <div class="col-md-12 col-lg-6 text-start text-lg-end" data-aos="fade-up" data-aos-delay="100">
+          
+          </div>
+        </div>
+
+        <!-- recent projects -->
+
+        <h3>Recent projects | 2020-Now</h3>
+        <hr>
+        <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
+
+           <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://laura-navarro-s.github.io/temperatures.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Firsts steps with Svelte: Most of us live in a +1.5-degree warmer world already</h3>
+                <span>Dataviz</span>
+                 <span>Beeswarm</span>
+              </div>
+              <img class="img-fluid" src="assets/img/svelte-temperatures.jpg">
+            </a>
+          </div>
+
+           <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/salud-y-bienestar/2024-02-29/la-obesidad-ya-es-la-forma-mas-comun-de-malnutricion-en-la-mayoria-de-paises.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Obesity is already the most common form of malnutrition in most countries</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/obesity.jpg">
+            </a>
+          </div>
+
+           <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2024-02-11/como-cambia-el-consumo-de-agua-en-casa-durante-una-sequia-tiro-de-la-cadena-una-de-cada-dos-veces-que-voy-al-bano.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>How water consumption changes at home during a drought</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/water.jpg">
+            </a>
+          </div>
+
+           <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2024-01-21/una-region-en-llamas-los-11-focos-de-conflicto-en-oriente-proximo.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>A region on fire: the 11 flashpoints of conflict in the Middle East</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/gaza-orient.jpg">
+            </a>
+          </div>
+
+            <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2024-01-19/por-espana-en-coche-electrico-el-mapa-de-los-puntos-de-carga-muestra-lo-lejos-que-se-puede-ir-todavia-no-mucho.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Through Spain by electric car: the map of charging points shows how far you can go</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/electric-car.gif">
+            </a>
+          </div>
+
+          
+          <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://english.elpais.com/climate/2023-12-10/2023-is-the-hottest-year-in-millennia-why-and-how-is-this-measured.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>2023 is the hottest year in millennia: Why and how is this measured?</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/cop28-promo.JPG">
+            </a>
+          </div>
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2023-10-27/mapas-que-ha-destruido-una-semana-de-bombardeos-israelies-en-gaza.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The destruction of the Gaza Strip</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/gaza-promo.JPG">
+            </a>
+          </div>
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2023-12-10/triplicar-las-energias-renovables-la-nueva-cifra-magica-en-la-lucha-contra-la-crisis-climatica.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>How to triple renewable energy</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/cop-renovables.JPG">
+            </a>
+          </div>
+          <div class="item design col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2023-10-22/los-mapas-del-exodo-en-gaza-600000-personas-huyen-por-una-carretera-de-45-kilometros.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Exodus in Gaza: 600,000 people flee along a 45-kilometer road</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/exodo-gaza-gif.gif">
+            </a>
+          </div>
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2023-10-19/las-inundaciones-que-vienen-danas-borrascas-y-medicanes-las-tormentas-del-mediterraneo-ganan-virulencia.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The floods that are coming: danas, storms and medicanes, the Mediterranean storms gain virulence</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/borrascas-gif1.gif">
+            </a>
+          </div>
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/espana/2023-10-03/analisis-visual-como-eran-las-dos-plantas-fonda-milagros-la-discoteca-incendiada-donde-murieron-13-personas-en-murcia.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>What the two floors of Fonda Milagros were like, the nightclub that burned down in Murcia</h3>
+                <span>Infographics</span>
+              </div>
+              <img class="img-fluid" src="assets/img/fonda-milagros.JPG">
+            </a>
+          </div>
+
+
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2023-08-06/la-temperatura-se-dispara-en-el-mediterraneo-y-el-atlantico-para-muchas-especies-es-como-si-hubiese-un-incendio-en-el-mar.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The temperature soars in the Mediterranean and the Atlantic: “For many species, it is as if there were a fire in the sea”</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/temperaturas-promo.JPG">
+            </a>
+          </div>
+
+
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/salud-y-bienestar/2023-08-04/sin-gritos-de-ayuda-ni-chapoteos-guia-visual-para-reconocer-que-alguien-se-ahoga.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Without shouting for help or splashing: a visual guide to recognizing that someone is drowning</h3>
+                <span>Illustration</span>
+              </div>
+              <img class="img-fluid" src="assets/img/ahogarse-promo.JPG">
+            </a>
+          </div>
+
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2023-07-11/datos-los-records-de-calor-que-esta-batiendo-esta-decada-los-dias-de-mas-de-40-grados-ya-no-son-una-excepcion.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The heat records that this decade is breaking: days over 40 degrees are no longer an exception</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/record-temp.JPG">
+            </a>
+          </div>
+
+
+          
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/ciencia/2023-07-11/un-insolito-lago-respalda-que-la-humanidad-provoco-una-nueva-epoca-geologica-a-partir-de-1950-el-antropoceno.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>An unusual lake supports that humanity caused a new geological epoch starting in 1950: the Anthropocene</h3>
+                <span>Infographics</span>
+              </div>
+              <img class="img-fluid" src="assets/img/crawford.JPG">
+            </a>
+          </div>
+
+
+          
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/espana/elecciones-municipales/2023-05-23/que-se-vota-y-como-este-28-m-hasta-9-urnas-distintas-y-mas-de-11000-elecciones.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>What is voted on and how on 28-M? Up to nine different ballot boxes and more than 11,000 elections</h3>
+                <span>Elections</span>
+              </div>
+              <img class="img-fluid" src="assets/img/28m.JPG">
+            </a>
+          </div>
+
+
+          
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2023-05-18/cinco-mapas-que-explican-las-posibles-vias-de-la-inminente-contraofensiva-de-ucrania.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Five maps that explain the possible paths of Ukraine's imminent counteroffensive</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/contraofensiva.JPG">
+            </a>
+          </div>
+
+
+                 
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/espana/elecciones-municipales/2023-05-11/cuanto-cobra-tu-alcalde-examen-a-mas-de-7000-salarios-municipio-a-municipio.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>How much does your mayor earn? Examination of more than 7,000 salaries, municipality by municipality</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/sueldo-alcaldes.JPG">
+            </a>
+          </div>
+
+
+                  
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/clima-y-medio-ambiente/2023-05-01/cuanta-agua-falta-la-sequia-en-espana-explicada-en-cubos.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>How much water is missing? The drought in Spain explained in cubes</h3>
+                <span>Infographics</span>
+              </div>
+              <img class="img-fluid" src="assets/img/sequia.JPG">
+            </a>
+          </div>
+
+                 
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2023-04-09/por-que-la-india-ya-supera-a-china-en-habitantes-asi-es-la-explosion-demografica-del-pais-de-las-megaciudades.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>India: this is the demographic explosion of the country of megacities</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/india-promo.gif">
+            </a>
+          </div>
+
+
+          
+                 
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/internacional/2023-02-22/lo-que-15000-alarmas-antiaereas-cuentan-de-la-guerra-en-ucrania.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>What 15,000 anti-aircraft alarms tell about the war in Ukraine</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/alarmas-promo.JPG">
+            </a>
+          </div>
+
+
+                 
+                 
+          <div class="item branding col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://elpais.com/sociedad/2023-01-25/los-tiempos-judiciales-en-violencia-machista-procesos-de-cuatro-meses-y-medio-en-extremadura-y-de-mes-y-medio-en-aragon.html" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>39% of those murdered by sexist violence in 2022 had initiated a judicial process</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/feminicidios.JPG">
+            </a>
+          </div>
+
+
+
+
+          <!-- Trabajos en Newtral -->
+
+
+        </div>
+        <h3>Selected works in <a href="https://www.newtral.es/author/laura-navarro/">Newtral.es</a> | 2021-2022</h3>
+        <hr>
+        <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
+         
+         
+          <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/renta-media-espana/20221011/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The average income that divides Spain in two</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/renta-newtral.JPG">
+            </a>
+          </div>
+         
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/retroceso-vacunas-pandemia/20221004/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The pandemic causes the biggest setback in global vaccination in 30 years</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/vacunas-newtral.JPG">
+            </a>
+          </div>
+        
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/lobo-iberico-distribucion/20220924/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The Iberian wolf population occupied three times more territory in the 19th century than it does now</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/lobos-newtral.JPG">
+            </a>
+          </div>
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/nieve-pirineos-2050/20220920/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The Pyrenees are melting: 60% less snow and no glaciers in 2050</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/pirineos-newtral.JPG">
+            </a>
+          </div>
+
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/inflacion-desayuno/20220914/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Toast, milk, coffee: August inflation shoots up prices of breakfast products</h3>
+                <span>Infographics</span>
+              </div>
+              <img class="img-fluid" src="assets/img/desayuno-newtral.JPG">
+            </a>
+          </div>
+
+          
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/mapas-sequia-espana/20220622/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Drought maps: summer begins after the second driest May in 60 years</h3>
+                <span>Maps</span>
+              </div>
+              <img class="img-fluid" src="assets/img/sequia-newtral.gif">
+            </a>
+          </div>
+        
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/hectareas-quemadas-espana/20220623/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Scorched land: this is the space occupied by the hectares burned in the fires</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/incendios-newtral.JPG">
+            </a>
+          </div>
+
+
+          
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/gas-natural-energia/20220627/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>In the bowels of a natural gas plant</h3>
+                <span>Illustration</span>
+              </div>
+              <img class="img-fluid" src="assets/img/gas-newtral.JPG">
+            </a>
+          </div>
+
+
+                    
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/castillo-maqueda/20220430/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Maqueda's Castle: the fortress that Interior has auctioned four times without success</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/maqueda-newtral.JPG">
+            </a>
+          </div>
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/inflacion-cesta-de-la-compra/20220802/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Inflation through gazpacho: how much has the shopping basket risen in Spain and the European Union?</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/gazpacho-newtral.JPG">
+            </a>
+          </div>
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.newtral.es/busquedas-google-pandemia/20220423/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The pandemic is disappearing from Google searches</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/covid-newtral.JPG">
+            </a>
+          </div>
+
+
+
+
+
+
+          <!-- Trabajos en Storydata y/o propios -->
+        </div>
+        <h3>Previously | 2020-2022</h3>
+        <hr>
+        <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
+         
+         
+          <div class="item web col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/tree/master/baby_names" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Most Common Baby names in the US</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/baby-names.jpg">
+            </a>
+          </div>
+         
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.barcelona.cat/metropolis/en/contents/the-housing-crisis" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Barcelona Metropolis 122: The housing crisis</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/housing-crisis.jpg">
+            </a>
+          </div>
+        
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://www.elcritic.cat/dades/la-sisena-onada-de-la-covid-19-a-catalunya-barri-a-barri-115011" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>The Sixth Wave of Covid-19 in Catalonia, by neighbourhood</h3>
+                <span>Reporting</span>
+              </div>
+              <img class="img-fluid" src="assets/img/covid-cat.jpg">
+            </a>
+          </div>
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/tree/master/Billboard" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Music Genres Evolution</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/music-genres.jpg">
+            </a>
+          </div>
+
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/tree/master/Spice" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Spice Girls lyrics: analyzing sentiment</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/spice-girls.jpg">
+            </a>
+          </div>
+
+          
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://xavishiny.shinyapps.io/hate_speech/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Trump’s Enemies Network – Shiny App Contest 2021</h3>
+                <span>Shiny App</span>
+              </div>
+              <img class="img-fluid" src="assets/img/trump-enemies.jpg">
+            </a>
+          </div>
+        
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/tree/master/National%20Day" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Independence Days Dataviz</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/independence-days.jpg">
+            </a>
+          </div>
+
+
+          
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://olympic-games-navarro.github.io/olympic-games-navarro.io/" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Olympic Games: Swimming medals</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/wimming-medals.jpg">
+            </a>
+          </div>
+
+
+                    
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/tree/master/Kenya_census_2021" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Albinism in Kenya Dataviz</h3>
+                <span>Map</span>
+              </div>
+              <img class="img-fluid" src="assets/img/albinism-kenya.jpg">
+            </a>
+          </div>
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/blob/master/beer_awards_data.R" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>US Awarded Beer Map</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/beer-awards.jpg">
+            </a>
+          </div>
+
+
+          <div class="item photography col-sm-6 col-md-4 col-lg-4 mb-4">
+            <a href="https://github.com/lau-cloud/TidyTuesdaycode/blob/master/palmer_penguins_plot.png" class="item-wrap fancybox">
+              <div class="work-info">
+                <h3>Palmer Penguins Dataviz</h3>
+                <span>Dataviz</span>
+              </div>
+              <img class="img-fluid" src="assets/img/penguins.jpg">
+            </a>
+          </div>
+         
+         
+         
+         
+ 
+
+      </div>
+      <a href="#" class="back-to-top d-flex align-items-center justify-content-center">Back to top<i class="bi bi-arrow-up-short"></i></a>
+
+    </section><!-- End  Works Section -->
+
+    
+  
+    
+
+    
+
+  </main><!-- End #main -->
+
+   <!-- ======= Footer ======= -->
+   <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <p class="mb-1">&copy; Copyright MyPortfolio. All Rights Reserved</p>
+          <div class="credits">
+            <!--
+            All the links in the footer should remain intact.
+            You can delete the links only if you purchased the pro version.
+            Licensing information: https://bootstrapmade.com/license/
+            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=MyPortfolio
+          -->
+            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          </div>
+        </div>
+  </footer>
+
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
